@@ -572,3 +572,26 @@
 2025-08-17 00:12:56 INFO  MyntraCases:99 - adding into cart
 2025-08-17 00:12:59 INFO  MyntraCases:110 - ***************Total Amount in Cart********************
 2025-08-17 00:12:59 INFO  MyntraCases:120 - *************************************Done with Execution****************************
+2025-08-18 01:22:07 INFO  MyntraCases:81 - *************************setup is done****************************
+2025-08-18 01:22:08 INFO  MyntraCases:89 - ****************Adding Product in Cart********************
+2025-08-18 01:22:11 INFO  MyntraCases:93 - Category Selection
+2025-08-18 01:22:17 INFO  MyntraCases:95 - Product Selection
+2025-08-18 01:22:17 INFO  MyntraCases:97 - Item Selection
+2025-08-18 01:22:24 INFO  MyntraCases:99 - adding into cart
+2025-08-18 01:22:24 INFO  MyntraCases:89 - ****************Adding Product in Cart********************
+2025-08-18 01:22:26 INFO  MyntraCases:93 - Category Selection
+2025-08-18 01:22:32 INFO  MyntraCases:95 - Product Selection
+2025-08-18 01:22:32 INFO  MyntraCases:97 - Item Selection
+2025-08-18 01:22:38 INFO  MyntraCases:99 - adding into cart
+2025-08-18 01:22:38 INFO  MyntraCases:89 - ****************Adding Product in Cart********************
+2025-08-18 01:22:41 INFO  MyntraCases:93 - Category Selection
+2025-08-18 01:22:46 INFO  MyntraCases:95 - Product Selection
+2025-08-18 01:22:47 INFO  MyntraCases:97 - Item Selection
+2025-08-18 01:22:53 INFO  MyntraCases:99 - adding into cart
+2025-08-18 01:22:54 INFO  MyntraCases:89 - ****************Adding Product in Cart********************
+2025-08-18 01:22:57 INFO  MyntraCases:93 - Category Selection
+2025-08-18 01:23:03 INFO  MyntraCases:95 - Product Selection
+2025-08-18 01:23:03 INFO  MyntraCases:97 - Item Selection
+2025-08-18 01:23:10 INFO  MyntraCases:99 - adding into cart
+2025-08-18 01:23:15 INFO  MyntraCases:110 - ***************Total Amount in Cart********************
+2025-08-18 01:23:16 INFO  MyntraCases:120 - *************************************Done with Execution****************************
